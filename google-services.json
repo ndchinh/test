@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "765525586786",
-    "firebase_url": "https://test1-a77c0.firebaseio.com",
-    "project_id": "test1-a77c0",
-    "storage_bucket": "test1-a77c0.appspot.com"
+    "project_number": "815749540782",
+    "firebase_url": "https://demoapp-5d9cb.firebaseio.com",
+    "project_id": "demoapp-5d9cb",
+    "storage_bucket": "demoapp-5d9cb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:765525586786:android:fc04ba8522cceba467723b",
+        "mobilesdk_app_id": "1:815749540782:android:3294b059a27a166120763f",
         "android_client_info": {
           "package_name": "jp.japanpost.jp_bank.FIDOapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "765525586786-gj8hidiau8vocunocil4ogcjm1t78oq6.apps.googleusercontent.com",
+          "client_id": "815749540782-ptnt0notf0hn73m8rej4llvar8pjpm6p.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBPhFBbDf30eyltSMK890DJKWVNsbMU0sM"
+          "current_key": "AIzaSyDNiVZrYbIJdA30XAe-BkPxmkq7cmUK7zQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "765525586786-gj8hidiau8vocunocil4ogcjm1t78oq6.apps.googleusercontent.com",
+              "client_id": "815749540782-ptnt0notf0hn73m8rej4llvar8pjpm6p.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
